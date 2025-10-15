@@ -1,44 +1,69 @@
 {
-  "generated_at": "2025-10-15T10:40:14.693597+08:00",
-  "total_titles_processed": 300,
+  "generated_at": "2025-10-15T14:43:11.347985+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
           "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 14时43分]"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
           "url": "https://news.ifeng.com/c/8nSohQvRLm8",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 14时43分]"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[14时42分 ~ 14时43分]"
         },
         {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
           "url": "https://wallstreetcn.com/articles/3757151",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 14时43分]"
+        },
+        {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[14时42分 ~ 14时43分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -62,11 +87,12 @@
           "url": "https://www.cls.cn/detail/2169528",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 14时43分]"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -93,6 +119,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
+          "url": "https://www.cls.cn/detail/2169533",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 14时43分]"
+        },
+        {
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -114,26 +168,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
-          "url": "https://www.cls.cn/detail/2169533",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
         }
       ]
     },
@@ -146,11 +183,12 @@
           "url": "https://www.zhihu.com/question/1961010617587561780",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 14时43分]"
         }
       ]
     }
